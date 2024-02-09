@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on A Smart system for Autism<br>🌱 I’m currently learning FLUTTER.<br>💬 Ask me about HTML,CSS.<br>
+🔭 I’m currently working on A Smart system for Autism<br>🌱 Aspiring FLUTTER developer.<br>💬 Ask me about HTML,CSS,javascript,flutter.<br>
 
 
 ## 🌐 Socials:
