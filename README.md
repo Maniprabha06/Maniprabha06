@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maniprabha Shankar Ganesh</h1>
-<h3 align="center">Flutter Developer | learning Devops | Certified AWS Cloud practitioner</h3>
+<h3 align="center">Flutter Developer | learning Devops |1x AWS Certified</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maniprabha06&label=Profile%20views&color=0e75b6&style=flat" alt="maniprabha06" /> </p>
 
